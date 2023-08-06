@@ -1,10 +1,4 @@
-# CS305
-
-# Class: CS-.05-T4501 Software Security
-# Instructor: Dr. Vivian Lyon
-# Assignment: Project Two
-# Student: Katherine Cranford
-# Date: 24 APR 2022
+# Software Security
 
 # Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
 
